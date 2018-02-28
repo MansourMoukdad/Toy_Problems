@@ -7,14 +7,14 @@
 // 	Input :: "a"
 // 	Ouput :: "Position of alphabet: 1"
 	function characPosit(character){   // 
-		var str=["a","b","c"]
+		var character=["a","b","c"]
 		var result="";
 		var posit=length[i]
 
 		while(i<character.){
 
 		}
-		return str
+		return "Position of alphabet:" + character.length;
 	}
 
 

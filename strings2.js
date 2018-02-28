@@ -1,7 +1,10 @@
+<<<<<<< HEAD
 
 
 
 
+=======
+>>>>>>> a06420f97930b45c95765d8e8fb3a3b62f587822
 //  Given a sequence of items and a specific item in that sequence, return the item
 // 	immediately following the item specified. If the item occurs more than once in a sequence,
 // 	return the item after the first occurence. This should work for a sequence of any type.
@@ -10,6 +13,7 @@
 //  nextItem("testing", "t") # "e"
 
 	function nextItem(items, elem){
+<<<<<<< HEAD
 		var result;
 
 		for(var i = 0; i < items.length ; i++){
@@ -21,6 +25,9 @@
 			} else { return items[i]+2 }
 		}
 		return result;
+=======
+		//your code is here
+>>>>>>> a06420f97930b45c95765d8e8fb3a3b62f587822
 	}
 
 //  We need a function that can transform a number into a string.
@@ -29,6 +36,7 @@
 // 	numberToString(999); // returns '999';`
 
 	function numberToString(num) {
+<<<<<<< HEAD
 
 		
 	var result="";
@@ -36,4 +44,7 @@
 			if(num!== )
 		}
 	return result;
+=======
+	  //your code is here
+>>>>>>> a06420f97930b45c95765d8e8fb3a3b62f587822
 	}
